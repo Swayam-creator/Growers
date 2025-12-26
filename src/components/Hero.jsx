@@ -49,7 +49,7 @@ const Hero = () => {
 
         <div className="flex flex-col items-center md:items-start gap-4">
           <h1 className="text-3xl md:text-5xl font-serif">
-            Business Name
+           Grower
           </h1>
 
           <div className="flex gap-4">
