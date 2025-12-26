@@ -46,7 +46,7 @@ const OurGallery = () => {
 
             <div className="absolute top-4 left-4 flex items-center gap-3 text-white z-10">
               <img
-                src="/profile.jpg"
+                src="/profile.avif"
                 alt="profile"
                 loading="lazy"
                 className="w-9 h-9 rounded-full border border-white"
