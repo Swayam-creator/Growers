@@ -8,4 +8,32 @@
  ## Deployed Project link
  -[Project Link](https://growers-iota.vercel.app/)
 
+
+## Demo Video
+ - [Video](https://youtu.be/aoFFsLUgJG4)
  
+---
+
+## 📦 Docker Hub Image
+
+✅ **Image is available on Docker Hub**
+
+**Repository:**  
+https://hub.docker.com/r/swayam1704/growers
+
+**Image Tag:**  
+---
+```bash 
+# docker command
+docker pull swayam1704/growers:v1
+
+# run the container 
+
+docker run -p 5173:5173 swayam1704/growers:v1
+
+
+# open your browser and visit 
+
+http://localhost:5173
+
+
